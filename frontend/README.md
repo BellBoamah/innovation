@@ -1,9 +1,8 @@
 # Getting Started with Create React App
 
-1. Type cd Eat2Fit
-2. Then cd frontend
-3. After, npm start 
-4. Please wait patiently for a few seconds
+1. Type cd frontend
+2. After, npm start 
+3. Please wait patiently for a few seconds
 
 
 You may have to download these depencies for the program to function properly
