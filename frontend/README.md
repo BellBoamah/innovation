@@ -3,6 +3,7 @@
 1. Type cd frontend
 2. After, npm start 
 3. Please wait patiently for a few seconds
+4. 4.The backend is on SpringBoot 
 
 
 You may have to download these depencies for the program to function properly
