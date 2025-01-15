@@ -1,0 +1,35 @@
+.validation-content{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+}
+
+input{
+    padding: 45px;
+    margin: 10px 0px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+
+
+
+label{
+    font-size: 12px;
+    color: gray;
+}
+
+span{
+    font-size: 12px;
+    padding: 3px;
+    color: red;
+    display: none;
+}
+
+input:invalid[message="true"]{
+    border: 1px solid red;
+}
+
+input:invalid[message="true"] ~ span{
+    display: block;
+}

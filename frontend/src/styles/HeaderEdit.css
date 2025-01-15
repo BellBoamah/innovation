@@ -1,0 +1,29 @@
+.sidemenutwo {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sidemenutwo li {
+    margin: 0px 20px;
+  }
+  .sidemenutwo li a {
+    text-decoration: none;
+    color: white;
+  }
+  .active {
+    color: goldenrod !important;
+    font-weight: bold !important;
+  }
+  .sidemenu {
+    list-style: none;
+  }
+  .sidemenu li {
+    margin-top: 20px;
+  }
+  .sidemenu li a {
+    text-decoration: none;
+    font-size: 1.4rem;
+    color: gold;
+  }
+  
